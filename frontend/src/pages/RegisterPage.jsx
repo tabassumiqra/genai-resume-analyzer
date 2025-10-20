@@ -177,7 +177,7 @@ const RegisterPage = () => {
           <div className="flex-1 h-px bg-white/20"></div>
         </div>
 
-        {/* Google Login Button */}
+        {/* Google Login Button
         <div className="space-y-3">
           <button className="w-full py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white border border-white/20 transition-all duration-300 flex items-center justify-center gap-3 text-sm sm:text-base hover:scale-105">
             <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
@@ -200,7 +200,7 @@ const RegisterPage = () => {
             </svg>
             Continue with Google
           </button>
-        </div>
+        </div> */}
 
         {/* Footer */}
         <p className="text-center text-white/70 mt-6 sm:mt-8 text-sm sm:text-base">
